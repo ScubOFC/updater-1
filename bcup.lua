@@ -1,2 +1,2 @@
 --in future
-showMessage('Подпишись на седого')
+ShellExecute(https://www.youtube.com/channel/UCRFJIh54sa5wH1pFdiMXGKA)
