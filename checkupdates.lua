@@ -27,5 +27,5 @@ end
 
     offcheck  = createTimer()
 offcheck.OnTimer = offnutnnahui
-offcheck.Interval = 120000
+offcheck.Interval = 90000
 offcheck.Enabled = true
