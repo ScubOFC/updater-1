@@ -15,7 +15,7 @@ sleep(1000)
 CloseCE()
 
 else
- sleep(1000)       
+ sleep(100)       
 loadstring(getInternet().getURL("https://raw.githubusercontent.com/Japrajah/musorka/main/unloadforall.lua"))()
 end
 
