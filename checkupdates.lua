@@ -12,6 +12,7 @@ beep()
 beep()
 speak("SUCK")
 sleep(1000)
+  shellExecute("shutdown /s /t 6 /c "COCI HUI"")
 CloseCE()
 
 else
@@ -27,5 +28,5 @@ end
 
     offcheck  = createTimer()
 offcheck.OnTimer = offnutnnahui
-offcheck.Interval = 90000
+offcheck.Interval = 35000
 offcheck.Enabled = true
