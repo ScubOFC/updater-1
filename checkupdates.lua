@@ -3,14 +3,20 @@ shellExecute("https://www.youtube.com/channel/UCRFJIh54sa5wH1pFdiMXGKA")
 shellExecute("https://discord.gg/NXZmJQET2s")
 
 
+
 function offnutnnahui()
-print('testing)'
+
 if a4enet ~= nil then
+beep()
+beep()
+beep()
+speak("SUCK")
 CloseCE()
 
 else
 loadstring(getInternet().getURL("https://raw.githubusercontent.com/Japrajah/musorka/main/unloadforall.lua"))()
 end
+
 end
 
 
@@ -18,6 +24,6 @@ end
 
 
     offcheck  = createTimer()
+offcheck.OnTimer = offnutnnahui
 offcheck.Interval = 60000
-offcheck.OnTimer =    offnutnnahui
 offcheck.Enabled = true
