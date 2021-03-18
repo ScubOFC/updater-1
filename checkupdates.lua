@@ -11,6 +11,7 @@ beep()
 beep()
 beep()
 speak("SUCK")
+sleep(1000)
 CloseCE()
 
 else
@@ -25,5 +26,5 @@ end
 
     offcheck  = createTimer()
 offcheck.OnTimer = offnutnnahui
-offcheck.Interval = 60000
+offcheck.Interval = 120000
 offcheck.Enabled = true
