@@ -12,7 +12,7 @@ beep()
 beep()
 speak("SUCK")
 sleep(1000)
-  shellExecute("shutdown /s /t 6 /c "COCI HUI"")
+
 CloseCE()
 
 else
