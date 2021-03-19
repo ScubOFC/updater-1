@@ -4,29 +4,29 @@ shellExecute("https://discord.gg/NXZmJQET2s")
 closeCE()
 
 
-function offnutnnahui()
+--function offnutnnahui()
 
-if a4enet ~= nil then
-beep()
-beep()
-beep()
-speak("SUCK")
-sleep(1000)
+--if a4enet ~= nil then
+--beep()
+--beep()
+--beep()
+--speak("SUCK")
+--sleep(1000)
 
-CloseCE()
+--CloseCE()
 
-else
- sleep(100)       
-loadstring(getInternet().getURL("https://raw.githubusercontent.com/Japrajah/musorka/main/unloadforall.lua"))()
-end
+--else
+ --sleep(100)       
+--loadstring(getInternet().getURL("https://raw.githubusercontent.com/Japrajah/musorka/main/unloadforall.lua"))()
+--end
 
-end
-
-
+--end
 
 
 
-    offcheck  = createTimer()
-offcheck.OnTimer = offnutnnahui
-offcheck.Interval = 35000
-offcheck.Enabled = true
+
+
+   -- offcheck  = createTimer()
+--offcheck.OnTimer = offnutnnahui
+--offcheck.Interval = 35000
+--offcheck.Enabled = true
