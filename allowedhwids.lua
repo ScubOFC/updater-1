@@ -1,4 +1,1 @@
--- japrajah sethwid(856184,78530,47211,106874) 
-sethwid(856184,78534,47211,106874)
--- japrajah sethwid(856184,78530,47211,106874) 
--- japrajah sethwid(856184,78530,47211,106874) 
+allowhwid = '1'
