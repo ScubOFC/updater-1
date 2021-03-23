@@ -1,1 +1,1 @@
-allowhwid = '1'
+allowhwid = 1
